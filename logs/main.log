@@ -1,0 +1,332 @@
+2021-11-30 17:08:12,658@chess_zero.manager INFO # config type: mini
+2021-11-30 17:08:49,367@chess_zero.manager INFO # config type: mini
+2021-11-30 17:08:49,459@h5py._conv DEBUG # Creating converter from 7 to 5
+2021-11-30 17:08:49,459@h5py._conv DEBUG # Creating converter from 5 to 7
+2021-11-30 17:08:49,460@h5py._conv DEBUG # Creating converter from 7 to 5
+2021-11-30 17:08:49,460@h5py._conv DEBUG # Creating converter from 5 to 7
+2021-11-30 17:08:52,674@chess_zero.agent.model_chess DEBUG # loading model from C:\Users\81051\Desktop\chess-alpha-zero-master\data\model\model_best_config.json
+2021-11-30 17:08:52,676@tensorflow WARNING # From F:\Anaconda3\envs\chess\lib\site-packages\keras\backend\tensorflow_backend.py:442: The name tf.placeholder is deprecated. Please use tf.compat.v1.placeholder instead.
+
+2021-11-30 17:08:52,685@tensorflow WARNING # From F:\Anaconda3\envs\chess\lib\site-packages\keras\backend\tensorflow_backend.py:3543: The name tf.random_uniform is deprecated. Please use tf.random.uniform instead.
+
+2021-11-30 17:08:52,695@tensorflow WARNING # From F:\Anaconda3\envs\chess\lib\site-packages\keras\backend\tensorflow_backend.py:1188: calling reduce_sum_v1 (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+2021-11-30 17:08:52,741@tensorflow WARNING # From F:\Anaconda3\envs\chess\lib\site-packages\keras\backend\tensorflow_backend.py:112: The name tf.get_default_graph is deprecated. Please use tf.compat.v1.get_default_graph instead.
+
+2021-11-30 17:08:53,904@tensorflow WARNING # From F:\Anaconda3\envs\chess\lib\site-packages\keras\backend\tensorflow_backend.py:1205: calling reduce_prod_v1 (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+2021-11-30 17:08:53,969@h5py._conv DEBUG # Creating converter from 3 to 5
+2021-11-30 17:28:02,701@chess_zero.manager INFO # config type: mini
+2021-11-30 17:28:05,887@chess_zero.agent.model_chess DEBUG # loading model from C:\Users\81051\Desktop\chess-alpha-zero-master\data\model\model_best_config.json
+2021-11-30 17:28:05,888@tensorflow WARNING # From F:\Anaconda3\envs\chess\lib\site-packages\keras\backend\tensorflow_backend.py:442: The name tf.placeholder is deprecated. Please use tf.compat.v1.placeholder instead.
+
+2021-11-30 17:28:05,900@tensorflow WARNING # From F:\Anaconda3\envs\chess\lib\site-packages\keras\backend\tensorflow_backend.py:3543: The name tf.random_uniform is deprecated. Please use tf.random.uniform instead.
+
+2021-11-30 17:28:05,909@tensorflow WARNING # From F:\Anaconda3\envs\chess\lib\site-packages\keras\backend\tensorflow_backend.py:1188: calling reduce_sum_v1 (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+2021-11-30 17:28:05,951@tensorflow WARNING # From F:\Anaconda3\envs\chess\lib\site-packages\keras\backend\tensorflow_backend.py:112: The name tf.get_default_graph is deprecated. Please use tf.compat.v1.get_default_graph instead.
+
+2021-11-30 17:28:07,065@tensorflow WARNING # From F:\Anaconda3\envs\chess\lib\site-packages\keras\backend\tensorflow_backend.py:1205: calling reduce_prod_v1 (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+2021-11-30 17:28:07,318@tensorflow WARNING # From F:\Anaconda3\envs\chess\lib\site-packages\keras\backend\tensorflow_backend.py:153: The name tf.get_default_session is deprecated. Please use tf.compat.v1.get_default_session instead.
+
+2021-11-30 17:28:07,319@tensorflow WARNING # From F:\Anaconda3\envs\chess\lib\site-packages\keras\backend\tensorflow_backend.py:158: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+2021-11-30 17:28:07,321@tensorflow WARNING # From F:\Anaconda3\envs\chess\lib\site-packages\keras\backend\tensorflow_backend.py:163: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+2021-11-30 17:28:08,123@tensorflow WARNING # From F:\Anaconda3\envs\chess\lib\site-packages\keras\backend\tensorflow_backend.py:333: The name tf.global_variables is deprecated. Please use tf.compat.v1.global_variables instead.
+
+2021-11-30 17:28:08,124@tensorflow WARNING # From F:\Anaconda3\envs\chess\lib\site-packages\keras\backend\tensorflow_backend.py:341: The name tf.variables_initializer is deprecated. Please use tf.compat.v1.variables_initializer instead.
+
+2021-11-30 17:28:15,893@chess_zero.agent.model_chess DEBUG # loaded model digest = 259dc1c022276e4d6d2c7faa7b037a20ccac4b4a039cce14548ed47b45894b78
+2021-11-30 17:31:49,790@chess_zero.manager INFO # config type: distributed
+2021-11-30 17:32:02,120@chess_zero.agent.model_chess DEBUG # loading model from server
+2021-11-30 17:32:03,118@chess_zero.agent.model_chess DEBUG # loading model from C:\Users\81051\Desktop\chess-alpha-zero-master\data\model\model_best_config.json
+2021-11-30 17:32:03,120@tensorflow WARNING # From F:\Anaconda3\envs\chess\lib\site-packages\keras\backend\tensorflow_backend.py:442: The name tf.placeholder is deprecated. Please use tf.compat.v1.placeholder instead.
+
+2021-11-30 17:32:03,132@tensorflow WARNING # From F:\Anaconda3\envs\chess\lib\site-packages\keras\backend\tensorflow_backend.py:3543: The name tf.random_uniform is deprecated. Please use tf.random.uniform instead.
+
+2021-11-30 17:32:03,143@tensorflow WARNING # From F:\Anaconda3\envs\chess\lib\site-packages\keras\backend\tensorflow_backend.py:1188: calling reduce_sum_v1 (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+2021-11-30 17:32:03,188@tensorflow WARNING # From F:\Anaconda3\envs\chess\lib\site-packages\keras\backend\tensorflow_backend.py:112: The name tf.get_default_graph is deprecated. Please use tf.compat.v1.get_default_graph instead.
+
+2021-11-30 17:32:04,329@tensorflow WARNING # From F:\Anaconda3\envs\chess\lib\site-packages\keras\backend\tensorflow_backend.py:1205: calling reduce_prod_v1 (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+2021-11-30 17:32:04,840@tensorflow WARNING # From F:\Anaconda3\envs\chess\lib\site-packages\keras\backend\tensorflow_backend.py:153: The name tf.get_default_session is deprecated. Please use tf.compat.v1.get_default_session instead.
+
+2021-11-30 17:32:04,842@tensorflow WARNING # From F:\Anaconda3\envs\chess\lib\site-packages\keras\backend\tensorflow_backend.py:158: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+2021-11-30 17:32:04,843@tensorflow WARNING # From F:\Anaconda3\envs\chess\lib\site-packages\keras\backend\tensorflow_backend.py:163: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+2021-11-30 17:32:05,704@tensorflow WARNING # From F:\Anaconda3\envs\chess\lib\site-packages\keras\backend\tensorflow_backend.py:333: The name tf.global_variables is deprecated. Please use tf.compat.v1.global_variables instead.
+
+2021-11-30 17:32:05,705@tensorflow WARNING # From F:\Anaconda3\envs\chess\lib\site-packages\keras\backend\tensorflow_backend.py:341: The name tf.variables_initializer is deprecated. Please use tf.compat.v1.variables_initializer instead.
+
+2021-11-30 17:32:06,503@chess_zero.agent.model_chess DEBUG # loaded model digest = 259dc1c022276e4d6d2c7faa7b037a20ccac4b4a039cce14548ed47b45894b78
+2021-11-30 18:00:59,532@chess_zero.manager INFO # config type: distributed
+2021-11-30 18:01:03,550@chess_zero.agent.model_chess DEBUG # loading model from server
+2021-11-30 18:01:04,016@chess_zero.agent.model_chess DEBUG # loading model from C:\Users\81051\Desktop\chess-alpha-zero-master\data\model\model_best_config.json
+2021-11-30 18:01:04,017@tensorflow WARNING # From F:\Anaconda3\envs\chess\lib\site-packages\keras\backend\tensorflow_backend.py:442: The name tf.placeholder is deprecated. Please use tf.compat.v1.placeholder instead.
+
+2021-11-30 18:01:04,029@tensorflow WARNING # From F:\Anaconda3\envs\chess\lib\site-packages\keras\backend\tensorflow_backend.py:3543: The name tf.random_uniform is deprecated. Please use tf.random.uniform instead.
+
+2021-11-30 18:01:04,039@tensorflow WARNING # From F:\Anaconda3\envs\chess\lib\site-packages\keras\backend\tensorflow_backend.py:1188: calling reduce_sum_v1 (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+2021-11-30 18:01:04,075@tensorflow WARNING # From F:\Anaconda3\envs\chess\lib\site-packages\keras\backend\tensorflow_backend.py:112: The name tf.get_default_graph is deprecated. Please use tf.compat.v1.get_default_graph instead.
+
+2021-11-30 18:01:05,100@tensorflow WARNING # From F:\Anaconda3\envs\chess\lib\site-packages\keras\backend\tensorflow_backend.py:1205: calling reduce_prod_v1 (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+2021-11-30 18:01:05,338@tensorflow WARNING # From F:\Anaconda3\envs\chess\lib\site-packages\keras\backend\tensorflow_backend.py:153: The name tf.get_default_session is deprecated. Please use tf.compat.v1.get_default_session instead.
+
+2021-11-30 18:01:05,340@tensorflow WARNING # From F:\Anaconda3\envs\chess\lib\site-packages\keras\backend\tensorflow_backend.py:158: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+2021-11-30 18:01:05,342@tensorflow WARNING # From F:\Anaconda3\envs\chess\lib\site-packages\keras\backend\tensorflow_backend.py:163: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+2021-11-30 18:01:06,054@tensorflow WARNING # From F:\Anaconda3\envs\chess\lib\site-packages\keras\backend\tensorflow_backend.py:333: The name tf.global_variables is deprecated. Please use tf.compat.v1.global_variables instead.
+
+2021-11-30 18:01:06,055@tensorflow WARNING # From F:\Anaconda3\envs\chess\lib\site-packages\keras\backend\tensorflow_backend.py:341: The name tf.variables_initializer is deprecated. Please use tf.compat.v1.variables_initializer instead.
+
+2021-11-30 18:01:06,946@chess_zero.agent.model_chess DEBUG # loaded model digest = 259dc1c022276e4d6d2c7faa7b037a20ccac4b4a039cce14548ed47b45894b78
+2021-11-30 18:03:59,017@chess_zero.manager INFO # config type: distributed
+2021-11-30 18:04:02,751@tensorflow WARNING # From src\chess_zero\agent\model_chess.py:28: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+2021-11-30 18:04:02,751@tensorflow WARNING # From src\chess_zero\agent\model_chess.py:28: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+2021-11-30 18:04:02,752@tensorflow WARNING # From src\chess_zero\agent\model_chess.py:29: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+2021-11-30 18:04:03,548@chess_zero.agent.model_chess DEBUG # loading model from server
+2021-11-30 18:04:04,006@chess_zero.agent.model_chess DEBUG # loading model from C:\Users\81051\Desktop\chess-alpha-zero-master\data\model\model_best_config.json
+2021-11-30 18:04:04,007@tensorflow WARNING # From F:\Anaconda3\envs\chess\lib\site-packages\keras\backend\tensorflow_backend.py:442: The name tf.placeholder is deprecated. Please use tf.compat.v1.placeholder instead.
+
+2021-11-30 18:04:04,014@tensorflow WARNING # From F:\Anaconda3\envs\chess\lib\site-packages\keras\backend\tensorflow_backend.py:3543: The name tf.random_uniform is deprecated. Please use tf.random.uniform instead.
+
+2021-11-30 18:04:04,024@tensorflow WARNING # From F:\Anaconda3\envs\chess\lib\site-packages\keras\backend\tensorflow_backend.py:1188: calling reduce_sum_v1 (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+2021-11-30 18:04:04,062@tensorflow WARNING # From F:\Anaconda3\envs\chess\lib\site-packages\keras\backend\tensorflow_backend.py:112: The name tf.get_default_graph is deprecated. Please use tf.compat.v1.get_default_graph instead.
+
+2021-11-30 18:04:05,207@tensorflow WARNING # From F:\Anaconda3\envs\chess\lib\site-packages\keras\backend\tensorflow_backend.py:1205: calling reduce_prod_v1 (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+2021-11-30 18:04:05,449@tensorflow WARNING # From F:\Anaconda3\envs\chess\lib\site-packages\keras\backend\tensorflow_backend.py:153: The name tf.get_default_session is deprecated. Please use tf.compat.v1.get_default_session instead.
+
+2021-11-30 18:04:05,465@tensorflow WARNING # From F:\Anaconda3\envs\chess\lib\site-packages\keras\backend\tensorflow_backend.py:333: The name tf.global_variables is deprecated. Please use tf.compat.v1.global_variables instead.
+
+2021-11-30 18:04:05,466@tensorflow WARNING # From F:\Anaconda3\envs\chess\lib\site-packages\keras\backend\tensorflow_backend.py:341: The name tf.variables_initializer is deprecated. Please use tf.compat.v1.variables_initializer instead.
+
+2021-11-30 18:04:05,812@chess_zero.agent.model_chess DEBUG # loaded model digest = 259dc1c022276e4d6d2c7faa7b037a20ccac4b4a039cce14548ed47b45894b78
+2021-12-01 18:51:27,003@chess_zero.manager INFO # config type: mini
+2021-12-01 18:51:32,386@chess_zero.agent.model_chess DEBUG # loading model from C:\Users\81051\Desktop\chess-alpha-zero-master\data\model\model_best_config.json
+2021-12-01 18:51:32,387@tensorflow WARNING # From F:\Anaconda3\envs\chess\lib\site-packages\keras\backend\tensorflow_backend.py:442: The name tf.placeholder is deprecated. Please use tf.compat.v1.placeholder instead.
+
+2021-12-01 18:51:32,395@tensorflow WARNING # From F:\Anaconda3\envs\chess\lib\site-packages\keras\backend\tensorflow_backend.py:3543: The name tf.random_uniform is deprecated. Please use tf.random.uniform instead.
+
+2021-12-01 18:51:32,405@tensorflow WARNING # From F:\Anaconda3\envs\chess\lib\site-packages\keras\backend\tensorflow_backend.py:1188: calling reduce_sum_v1 (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+2021-12-01 18:51:32,452@tensorflow WARNING # From F:\Anaconda3\envs\chess\lib\site-packages\keras\backend\tensorflow_backend.py:112: The name tf.get_default_graph is deprecated. Please use tf.compat.v1.get_default_graph instead.
+
+2021-12-01 18:51:33,731@tensorflow WARNING # From F:\Anaconda3\envs\chess\lib\site-packages\keras\backend\tensorflow_backend.py:1205: calling reduce_prod_v1 (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+2021-12-01 18:51:34,016@tensorflow WARNING # From F:\Anaconda3\envs\chess\lib\site-packages\keras\backend\tensorflow_backend.py:153: The name tf.get_default_session is deprecated. Please use tf.compat.v1.get_default_session instead.
+
+2021-12-01 18:51:34,018@tensorflow WARNING # From F:\Anaconda3\envs\chess\lib\site-packages\keras\backend\tensorflow_backend.py:158: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+2021-12-01 18:51:34,019@tensorflow WARNING # From F:\Anaconda3\envs\chess\lib\site-packages\keras\backend\tensorflow_backend.py:163: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+2021-12-01 18:51:34,040@tensorflow WARNING # From F:\Anaconda3\envs\chess\lib\site-packages\keras\backend\tensorflow_backend.py:333: The name tf.global_variables is deprecated. Please use tf.compat.v1.global_variables instead.
+
+2021-12-01 18:51:34,041@tensorflow WARNING # From F:\Anaconda3\envs\chess\lib\site-packages\keras\backend\tensorflow_backend.py:341: The name tf.variables_initializer is deprecated. Please use tf.compat.v1.variables_initializer instead.
+
+2021-12-01 18:51:34,475@chess_zero.agent.model_chess DEBUG # loaded model digest = 259dc1c022276e4d6d2c7faa7b037a20ccac4b4a039cce14548ed47b45894b78
+2021-12-16 15:41:20,776@chess_zero.manager INFO # config type: distributed
+2021-12-16 15:42:01,551@chess_zero.agent.model_chess DEBUG # loading model from server
+2021-12-16 15:42:02,389@chess_zero.agent.model_chess DEBUG # loading model from C:\Users\81051\Desktop\chess-alpha-zero-master\data\model\model_best_config.json
+2021-12-16 15:42:02,419@tensorflow WARNING # From F:\Anaconda3\envs\chess\lib\site-packages\keras\backend\tensorflow_backend.py:442: The name tf.placeholder is deprecated. Please use tf.compat.v1.placeholder instead.
+
+2021-12-16 15:42:02,626@tensorflow WARNING # From F:\Anaconda3\envs\chess\lib\site-packages\keras\backend\tensorflow_backend.py:3543: The name tf.random_uniform is deprecated. Please use tf.random.uniform instead.
+
+2021-12-16 15:42:02,740@tensorflow WARNING # From F:\Anaconda3\envs\chess\lib\site-packages\keras\backend\tensorflow_backend.py:1188: calling reduce_sum_v1 (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+2021-12-16 15:42:02,861@tensorflow WARNING # From F:\Anaconda3\envs\chess\lib\site-packages\keras\backend\tensorflow_backend.py:112: The name tf.get_default_graph is deprecated. Please use tf.compat.v1.get_default_graph instead.
+
+2021-12-16 15:42:03,852@tensorflow WARNING # From F:\Anaconda3\envs\chess\lib\site-packages\keras\backend\tensorflow_backend.py:1205: calling reduce_prod_v1 (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+2021-12-16 15:42:04,577@tensorflow WARNING # From F:\Anaconda3\envs\chess\lib\site-packages\keras\backend\tensorflow_backend.py:153: The name tf.get_default_session is deprecated. Please use tf.compat.v1.get_default_session instead.
+
+2021-12-16 15:42:04,578@tensorflow WARNING # From F:\Anaconda3\envs\chess\lib\site-packages\keras\backend\tensorflow_backend.py:158: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+2021-12-16 15:42:04,579@tensorflow WARNING # From F:\Anaconda3\envs\chess\lib\site-packages\keras\backend\tensorflow_backend.py:163: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+2021-12-16 15:42:04,595@tensorflow WARNING # From F:\Anaconda3\envs\chess\lib\site-packages\keras\backend\tensorflow_backend.py:333: The name tf.global_variables is deprecated. Please use tf.compat.v1.global_variables instead.
+
+2021-12-16 15:42:04,595@tensorflow WARNING # From F:\Anaconda3\envs\chess\lib\site-packages\keras\backend\tensorflow_backend.py:341: The name tf.variables_initializer is deprecated. Please use tf.compat.v1.variables_initializer instead.
+
+2021-12-16 15:42:05,640@chess_zero.agent.model_chess DEBUG # loaded model digest = 259dc1c022276e4d6d2c7faa7b037a20ccac4b4a039cce14548ed47b45894b78
+2021-12-16 16:10:56,794@chess_zero.manager INFO # config type: distributed
+2021-12-16 16:11:09,460@tensorflow DEBUG # Falling back to TensorFlow client; we recommended you install the Cloud TPU client directly with pip install cloud-tpu-client.
+2021-12-16 16:12:55,113@chess_zero.manager INFO # config type: distributed
+2021-12-16 16:12:58,745@chess_zero.agent.model_chess DEBUG # loading model from server
+2021-12-16 16:12:59,199@chess_zero.agent.model_chess DEBUG # loading model from C:\Users\81051\Desktop\chess-alpha-zero-master\data\model\model_best_config.json
+2021-12-16 16:12:59,200@tensorflow WARNING # From F:\Anaconda3\envs\chess\lib\site-packages\keras\backend\tensorflow_backend.py:442: The name tf.placeholder is deprecated. Please use tf.compat.v1.placeholder instead.
+
+2021-12-16 16:12:59,206@tensorflow WARNING # From F:\Anaconda3\envs\chess\lib\site-packages\keras\backend\tensorflow_backend.py:3543: The name tf.random_uniform is deprecated. Please use tf.random.uniform instead.
+
+2021-12-16 16:12:59,215@tensorflow WARNING # From F:\Anaconda3\envs\chess\lib\site-packages\keras\backend\tensorflow_backend.py:1188: calling reduce_sum_v1 (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+2021-12-16 16:12:59,251@tensorflow WARNING # From F:\Anaconda3\envs\chess\lib\site-packages\keras\backend\tensorflow_backend.py:112: The name tf.get_default_graph is deprecated. Please use tf.compat.v1.get_default_graph instead.
+
+2021-12-16 16:13:00,174@tensorflow WARNING # From F:\Anaconda3\envs\chess\lib\site-packages\keras\backend\tensorflow_backend.py:1205: calling reduce_prod_v1 (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+2021-12-16 16:13:00,385@tensorflow WARNING # From F:\Anaconda3\envs\chess\lib\site-packages\keras\backend\tensorflow_backend.py:153: The name tf.get_default_session is deprecated. Please use tf.compat.v1.get_default_session instead.
+
+2021-12-16 16:13:00,386@tensorflow WARNING # From F:\Anaconda3\envs\chess\lib\site-packages\keras\backend\tensorflow_backend.py:158: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+2021-12-16 16:13:00,386@tensorflow WARNING # From F:\Anaconda3\envs\chess\lib\site-packages\keras\backend\tensorflow_backend.py:163: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+2021-12-16 16:13:00,391@tensorflow WARNING # From F:\Anaconda3\envs\chess\lib\site-packages\keras\backend\tensorflow_backend.py:333: The name tf.global_variables is deprecated. Please use tf.compat.v1.global_variables instead.
+
+2021-12-16 16:13:00,392@tensorflow WARNING # From F:\Anaconda3\envs\chess\lib\site-packages\keras\backend\tensorflow_backend.py:341: The name tf.variables_initializer is deprecated. Please use tf.compat.v1.variables_initializer instead.
+
+2021-12-16 16:13:00,715@chess_zero.agent.model_chess DEBUG # loaded model digest = 259dc1c022276e4d6d2c7faa7b037a20ccac4b4a039cce14548ed47b45894b78
+2021-12-16 16:14:47,806@chess_zero.manager INFO # config type: mini
+2021-12-16 16:14:51,374@chess_zero.agent.model_chess DEBUG # loading model from C:\Users\81051\Desktop\chess-alpha-zero-master\data\model\model_best_config.json
+2021-12-16 16:14:51,375@tensorflow WARNING # From F:\Anaconda3\envs\chess\lib\site-packages\keras\backend\tensorflow_backend.py:442: The name tf.placeholder is deprecated. Please use tf.compat.v1.placeholder instead.
+
+2021-12-16 16:14:51,383@tensorflow WARNING # From F:\Anaconda3\envs\chess\lib\site-packages\keras\backend\tensorflow_backend.py:3543: The name tf.random_uniform is deprecated. Please use tf.random.uniform instead.
+
+2021-12-16 16:14:51,393@tensorflow WARNING # From F:\Anaconda3\envs\chess\lib\site-packages\keras\backend\tensorflow_backend.py:1188: calling reduce_sum_v1 (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+2021-12-16 16:14:51,431@tensorflow WARNING # From F:\Anaconda3\envs\chess\lib\site-packages\keras\backend\tensorflow_backend.py:112: The name tf.get_default_graph is deprecated. Please use tf.compat.v1.get_default_graph instead.
+
+2021-12-16 16:14:52,393@tensorflow WARNING # From F:\Anaconda3\envs\chess\lib\site-packages\keras\backend\tensorflow_backend.py:1205: calling reduce_prod_v1 (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+2021-12-16 16:14:52,619@tensorflow WARNING # From F:\Anaconda3\envs\chess\lib\site-packages\keras\backend\tensorflow_backend.py:153: The name tf.get_default_session is deprecated. Please use tf.compat.v1.get_default_session instead.
+
+2021-12-16 16:14:52,621@tensorflow WARNING # From F:\Anaconda3\envs\chess\lib\site-packages\keras\backend\tensorflow_backend.py:158: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+2021-12-16 16:14:52,623@tensorflow WARNING # From F:\Anaconda3\envs\chess\lib\site-packages\keras\backend\tensorflow_backend.py:163: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+2021-12-16 16:14:52,637@tensorflow WARNING # From F:\Anaconda3\envs\chess\lib\site-packages\keras\backend\tensorflow_backend.py:333: The name tf.global_variables is deprecated. Please use tf.compat.v1.global_variables instead.
+
+2021-12-16 16:14:52,638@tensorflow WARNING # From F:\Anaconda3\envs\chess\lib\site-packages\keras\backend\tensorflow_backend.py:341: The name tf.variables_initializer is deprecated. Please use tf.compat.v1.variables_initializer instead.
+
+2021-12-16 16:14:52,998@chess_zero.agent.model_chess DEBUG # loaded model digest = 259dc1c022276e4d6d2c7faa7b037a20ccac4b4a039cce14548ed47b45894b78
+2021-12-16 16:28:29,125@chess_zero.manager INFO # config type: mini
+2021-12-16 16:28:32,840@chess_zero.agent.model_chess DEBUG # loading model from C:\Users\81051\Desktop\chess-alpha-zero-master\data\model\model_best_config.json
+2021-12-16 16:28:32,841@tensorflow WARNING # From F:\Anaconda3\envs\chess\lib\site-packages\keras\backend\tensorflow_backend.py:442: The name tf.placeholder is deprecated. Please use tf.compat.v1.placeholder instead.
+
+2021-12-16 16:28:32,848@tensorflow WARNING # From F:\Anaconda3\envs\chess\lib\site-packages\keras\backend\tensorflow_backend.py:3543: The name tf.random_uniform is deprecated. Please use tf.random.uniform instead.
+
+2021-12-16 16:28:32,858@tensorflow WARNING # From F:\Anaconda3\envs\chess\lib\site-packages\keras\backend\tensorflow_backend.py:1188: calling reduce_sum_v1 (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+2021-12-16 16:28:32,896@tensorflow WARNING # From F:\Anaconda3\envs\chess\lib\site-packages\keras\backend\tensorflow_backend.py:112: The name tf.get_default_graph is deprecated. Please use tf.compat.v1.get_default_graph instead.
+
+2021-12-16 16:28:33,909@tensorflow WARNING # From F:\Anaconda3\envs\chess\lib\site-packages\keras\backend\tensorflow_backend.py:1205: calling reduce_prod_v1 (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+2021-12-16 16:28:34,124@tensorflow WARNING # From F:\Anaconda3\envs\chess\lib\site-packages\keras\backend\tensorflow_backend.py:153: The name tf.get_default_session is deprecated. Please use tf.compat.v1.get_default_session instead.
+
+2021-12-16 16:28:34,125@tensorflow WARNING # From F:\Anaconda3\envs\chess\lib\site-packages\keras\backend\tensorflow_backend.py:158: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+2021-12-16 16:28:34,126@tensorflow WARNING # From F:\Anaconda3\envs\chess\lib\site-packages\keras\backend\tensorflow_backend.py:163: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+2021-12-16 16:28:34,218@tensorflow WARNING # From F:\Anaconda3\envs\chess\lib\site-packages\keras\backend\tensorflow_backend.py:333: The name tf.global_variables is deprecated. Please use tf.compat.v1.global_variables instead.
+
+2021-12-16 16:28:34,219@tensorflow WARNING # From F:\Anaconda3\envs\chess\lib\site-packages\keras\backend\tensorflow_backend.py:341: The name tf.variables_initializer is deprecated. Please use tf.compat.v1.variables_initializer instead.
+
+2021-12-16 16:28:34,556@chess_zero.agent.model_chess DEBUG # loaded model digest = 259dc1c022276e4d6d2c7faa7b037a20ccac4b4a039cce14548ed47b45894b78
+2021-12-16 16:32:15,607@chess_zero.manager INFO # config type: distributed
+2021-12-16 16:32:19,262@chess_zero.agent.model_chess DEBUG # loading model from server
+2021-12-16 16:32:19,711@chess_zero.agent.model_chess DEBUG # loading model from C:\Users\81051\Desktop\chess-alpha-zero-master\data\model\model_best_config.json
+2021-12-16 16:32:19,712@tensorflow WARNING # From F:\Anaconda3\envs\chess\lib\site-packages\keras\backend\tensorflow_backend.py:442: The name tf.placeholder is deprecated. Please use tf.compat.v1.placeholder instead.
+
+2021-12-16 16:32:19,720@tensorflow WARNING # From F:\Anaconda3\envs\chess\lib\site-packages\keras\backend\tensorflow_backend.py:3543: The name tf.random_uniform is deprecated. Please use tf.random.uniform instead.
+
+2021-12-16 16:32:19,730@tensorflow WARNING # From F:\Anaconda3\envs\chess\lib\site-packages\keras\backend\tensorflow_backend.py:1188: calling reduce_sum_v1 (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+2021-12-16 16:32:19,768@tensorflow WARNING # From F:\Anaconda3\envs\chess\lib\site-packages\keras\backend\tensorflow_backend.py:112: The name tf.get_default_graph is deprecated. Please use tf.compat.v1.get_default_graph instead.
+
+2021-12-16 16:32:20,711@tensorflow WARNING # From F:\Anaconda3\envs\chess\lib\site-packages\keras\backend\tensorflow_backend.py:1205: calling reduce_prod_v1 (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+2021-12-16 16:32:20,921@tensorflow WARNING # From F:\Anaconda3\envs\chess\lib\site-packages\keras\backend\tensorflow_backend.py:153: The name tf.get_default_session is deprecated. Please use tf.compat.v1.get_default_session instead.
+
+2021-12-16 16:32:20,923@tensorflow WARNING # From F:\Anaconda3\envs\chess\lib\site-packages\keras\backend\tensorflow_backend.py:158: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+2021-12-16 16:32:20,924@tensorflow WARNING # From F:\Anaconda3\envs\chess\lib\site-packages\keras\backend\tensorflow_backend.py:163: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+2021-12-16 16:32:21,019@tensorflow WARNING # From F:\Anaconda3\envs\chess\lib\site-packages\keras\backend\tensorflow_backend.py:333: The name tf.global_variables is deprecated. Please use tf.compat.v1.global_variables instead.
+
+2021-12-16 16:32:21,020@tensorflow WARNING # From F:\Anaconda3\envs\chess\lib\site-packages\keras\backend\tensorflow_backend.py:341: The name tf.variables_initializer is deprecated. Please use tf.compat.v1.variables_initializer instead.
+
+2021-12-16 16:32:21,357@chess_zero.agent.model_chess DEBUG # loaded model digest = 259dc1c022276e4d6d2c7faa7b037a20ccac4b4a039cce14548ed47b45894b78
+2021-12-16 19:17:37,331@chess_zero.worker.self_play INFO # save play data to C:\Users\81051\Desktop\chess-alpha-zero-master\data\play_data\play_20211216-191737.328904.json
+2021-12-16 19:17:37,368@chess_zero.agent.model_chess DEBUG # loading model from server
+2021-12-16 19:17:38,188@chess_zero.agent.model_chess DEBUG # loading model from C:\Users\81051\Desktop\chess-alpha-zero-master\data\model\model_best_config.json
+2021-12-16 19:17:52,730@chess_zero.agent.model_chess DEBUG # loaded model digest = 259dc1c022276e4d6d2c7faa7b037a20ccac4b4a039cce14548ed47b45894b78
+2021-12-16 19:47:33,939@chess_zero.manager INFO # config type: distributed
+2021-12-16 19:47:38,996@chess_zero.worker.optimize DEBUG # loading best model
+2021-12-16 19:47:38,996@chess_zero.agent.model_chess DEBUG # loading model from server
+2021-12-16 19:47:39,543@chess_zero.agent.model_chess DEBUG # loading model from C:\Users\81051\Desktop\chess-alpha-zero-master\data\model\model_best_config.json
+2021-12-16 19:47:39,544@tensorflow WARNING # From F:\Anaconda3\envs\chess\lib\site-packages\keras\backend\tensorflow_backend.py:442: The name tf.placeholder is deprecated. Please use tf.compat.v1.placeholder instead.
+
+2021-12-16 19:47:39,553@tensorflow WARNING # From F:\Anaconda3\envs\chess\lib\site-packages\keras\backend\tensorflow_backend.py:3543: The name tf.random_uniform is deprecated. Please use tf.random.uniform instead.
+
+2021-12-16 19:47:39,566@tensorflow WARNING # From F:\Anaconda3\envs\chess\lib\site-packages\keras\backend\tensorflow_backend.py:1188: calling reduce_sum_v1 (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+2021-12-16 19:47:39,608@tensorflow WARNING # From F:\Anaconda3\envs\chess\lib\site-packages\keras\backend\tensorflow_backend.py:112: The name tf.get_default_graph is deprecated. Please use tf.compat.v1.get_default_graph instead.
+
+2021-12-16 19:47:41,121@tensorflow WARNING # From F:\Anaconda3\envs\chess\lib\site-packages\keras\backend\tensorflow_backend.py:1205: calling reduce_prod_v1 (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+2021-12-16 19:47:41,401@tensorflow WARNING # From F:\Anaconda3\envs\chess\lib\site-packages\keras\backend\tensorflow_backend.py:153: The name tf.get_default_session is deprecated. Please use tf.compat.v1.get_default_session instead.
+
+2021-12-16 19:47:41,404@tensorflow WARNING # From F:\Anaconda3\envs\chess\lib\site-packages\keras\backend\tensorflow_backend.py:158: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+2021-12-16 19:47:41,407@tensorflow WARNING # From F:\Anaconda3\envs\chess\lib\site-packages\keras\backend\tensorflow_backend.py:163: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+2021-12-16 19:47:41,523@tensorflow WARNING # From F:\Anaconda3\envs\chess\lib\site-packages\keras\backend\tensorflow_backend.py:333: The name tf.global_variables is deprecated. Please use tf.compat.v1.global_variables instead.
+
+2021-12-16 19:47:41,524@tensorflow WARNING # From F:\Anaconda3\envs\chess\lib\site-packages\keras\backend\tensorflow_backend.py:341: The name tf.variables_initializer is deprecated. Please use tf.compat.v1.variables_initializer instead.
+
+2021-12-16 19:47:41,924@chess_zero.agent.model_chess DEBUG # loaded model digest = 259dc1c022276e4d6d2c7faa7b037a20ccac4b4a039cce14548ed47b45894b78
+2021-12-16 19:47:41,943@tensorflow WARNING # From F:\Anaconda3\envs\chess\lib\site-packages\keras\optimizers.py:711: The name tf.train.Optimizer is deprecated. Please use tf.compat.v1.train.Optimizer instead.
+
+2021-12-16 19:47:41,953@tensorflow WARNING # From F:\Anaconda3\envs\chess\lib\site-packages\keras\backend\tensorflow_backend.py:2759: The name tf.log is deprecated. Please use tf.math.log instead.
+
+2021-12-16 19:47:42,069@chess_zero.worker.optimize DEBUG # loading data from C:\Users\81051\Desktop\chess-alpha-zero-master\data\play_data\play_20211216-191737.328904.json
+2021-12-16 19:47:51,080@tensorflow WARNING # From F:\Anaconda3\envs\chess\lib\site-packages\tensorflow_core\python\ops\math_grad.py:1424: where (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+2021-12-16 19:47:53,788@tensorflow WARNING # From F:\Anaconda3\envs\chess\lib\site-packages\keras\backend\tensorflow_backend.py:899: The name tf.assign_add is deprecated. Please use tf.compat.v1.assign_add instead.
+
+2021-12-16 19:47:53,804@tensorflow WARNING # From F:\Anaconda3\envs\chess\lib\site-packages\keras\backend\tensorflow_backend.py:625: calling Constant.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+2021-12-16 19:47:54,289@tensorflow WARNING # From F:\Anaconda3\envs\chess\lib\site-packages\keras\backend\tensorflow_backend.py:886: The name tf.assign is deprecated. Please use tf.compat.v1.assign instead.
+
+2021-12-16 19:47:55,735@tensorflow WARNING # From F:\Anaconda3\envs\chess\lib\site-packages\keras\callbacks.py:703: The name tf.summary.histogram is deprecated. Please use tf.compat.v1.summary.histogram instead.
+
+2021-12-16 19:47:56,025@tensorflow WARNING # From F:\Anaconda3\envs\chess\lib\site-packages\keras\callbacks.py:705: The name tf.summary.merge_all is deprecated. Please use tf.compat.v1.summary.merge_all instead.
+
+2021-12-16 19:47:56,034@tensorflow WARNING # From F:\Anaconda3\envs\chess\lib\site-packages\keras\callbacks.py:708: The name tf.summary.FileWriter is deprecated. Please use tf.compat.v1.summary.FileWriter instead.
+
